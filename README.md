@@ -6,7 +6,7 @@
 [![AWS](https://img.shields.io/badge/AWS-%F0%9F%9B%A1-orange)](https://aws.amazon.com)
 [![Terraform](https://img.shields.io/badge/Terraform-%E2%9C%A8-lightgrey)](https://www.terraform.io)
 
-![Three-Tier Banner](assets/Three-Tier.gif)
+
 
 <img width="828" height="1105" alt="image" src="https://github.com/user-attachments/assets/0d9e5525-ba75-48bb-9abc-18d79ea10887" />
 
